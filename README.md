@@ -1,5 +1,6 @@
 # EnergyMonitor MVP for Junction 2023 Finland
 
+![EnergyMonitor Logo][IMG_2904.PNG]
 
 ## Overview
 
