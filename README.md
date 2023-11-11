@@ -1,6 +1,6 @@
 # EnergyMonitor MVP for Junction 2023 Finland
 
-![EnergyMonitor Logo](https://github.com/adbdehghan/HorizonPower/blob/main/IMG_2904.PNG?raw=true)
+![EnergyMonitor Logo](https://github.com/adbdehghan/HorizonPower/blob/main/screenshot.png?raw=true)
 
 ## Overview
 
