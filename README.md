@@ -20,7 +20,7 @@ EnergyMonitor is a Minimum Viable Product (MVP) designed for Junction 2023 in Fi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/EnergyMonitor.git
+    git clone https://github.com/adbdehghan/EnergyMonitor.git
     cd EnergyMonitor
     ```
 
